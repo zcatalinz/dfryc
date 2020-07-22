@@ -1,0 +1,13 @@
+.idea/
+target/
+*.iml
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+src/test/resources/logback.xml
+gatlinglog.txt
+log.log
+results/*
+hsperfdata_root/*
+project/*
